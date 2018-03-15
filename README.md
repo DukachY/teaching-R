@@ -13,3 +13,9 @@ Who are willing to study besides the curriculum in free time :wink:
 1. Introduction to R programming  
 2. Introduction to statistical analysis in R  
 3. Conducting of group research  
+
+### Lessons  
+1. Intro to R (vectors, matrices)  
+2. Lists, data frames + homework  
+  2.1. Answers on homework  
+3. Export from .sav and .csv format (+ 2 files with data), basic statistics and intro to dplyr (select() function)
